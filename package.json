@@ -1,0 +1,13 @@
+{
+  "name": "tslint-config-surikat",
+  "version": "1.0.0",
+  "description": "Surikat's way of coding in TS",
+  "main": "index.js",
+  "author": "Surikat <npm@surikat.se>",
+  "license": "MIT",
+  "dependencies": {
+    "tslint": "^5.12.1",
+    "tslint-config-airbnb": "^5.11.1",
+    "typescript": "^3.3.3"
+  }
+}
