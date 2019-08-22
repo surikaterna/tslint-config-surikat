@@ -6,7 +6,7 @@
   "author": "Surikat <npm@surikat.se>",
   "license": "MIT",
   "dependencies": {
-    "tslint": "^5.12.1",
+    "tslint": "^5.19.0",
     "tslint-config-airbnb": "^5.11.1",
     "typescript": "^3.3.3"
   }
