@@ -1,5 +1,5 @@
 {
-  "name": "tslint-config-surikat",
+  "name": "tslint-config-surikaterna",
   "version": "1.0.0",
   "description": "Surikat's way of coding in TS",
   "main": "index.js",
